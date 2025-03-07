@@ -1,1 +1,5 @@
 # MyProject
+
+```
+cd main
+```
